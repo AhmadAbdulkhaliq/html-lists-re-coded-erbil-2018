@@ -22,9 +22,9 @@ them, we'll add `<li>` tags, each listing a single month:
 
 ```HTML
 <ul>
-  <li>Dec</li>
-  <li>Nov</li>
-  <li>Oct</li>
+  <li>Ahmad</li>
+  <li>Ahmad</li>
+  <li>Ahmad</li>
 </ul>
 ```
 
@@ -34,12 +34,12 @@ wanted to add specific dates to a month, we could put a list inside of our
 
 ```HTML
 <ul>
-  <li>Dec</li>
-  <li>Nov</li>
-  <li>Oct
+  <li>Ahmad</li>
+  <li>Ahmad</li>
+  <li>Ahmad
     <ul>
-      <li>17th</li>
-      <li>18th</li>
+      <li>Abdulkhaliq</li>
+      <li>Osman</li>
     </ul>
   </li>
 </ul>
